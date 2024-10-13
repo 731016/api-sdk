@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  vin.suki.apisdk.config.ApiClientAutoConfig
+  site.xiaofei.apisdk.config.ApiClientAutoConfig
