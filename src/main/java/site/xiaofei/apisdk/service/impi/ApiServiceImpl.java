@@ -303,4 +303,8 @@ public class ApiServiceImpl implements ApiService {
 		return request(request);
 	}
 
+	@Override
+	public ResultResponse getCsdnInfo(CsdnRequest request) throws BusinessException {
+		return request(request);
+	}
 }
